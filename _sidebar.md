@@ -1,12 +1,12 @@
 <!--
  * @Author: ZZH
  * @Date: 2021-08-05 16:11:39
- * @LastEditTime: 2021-08-05 17:18:08
+ * @LastEditTime: 2021-08-05 17:35:24
  * @LastEditors: ZZH
  * @Description: 文档目录
  * @FilePath: /pc-design/docs/_sidebar.md
 -->
-* [KFormDesign](README)
+* [KFormDesign1](README)
 - 开始
   * [快速上手](zh-cn/guide/start?id=快速上手)
   * [使用组件](zh-cn/guide/start?id=引入-k-form-design)
