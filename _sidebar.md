@@ -1,3 +1,11 @@
+<!--
+ * @Author: ZZH
+ * @Date: 2021-08-05 16:11:39
+ * @LastEditTime: 2021-08-05 17:18:08
+ * @LastEditors: ZZH
+ * @Description: 文档目录
+ * @FilePath: /pc-design/docs/_sidebar.md
+-->
 * [KFormDesign](README)
 - 开始
   * [快速上手](zh-cn/guide/start?id=快速上手)
@@ -18,6 +26,11 @@
   * [树选择器](zh-cn/field/treeSelect)
   * [联级选择器](zh-cn/field/cascader)
   * [上传接口](zh-cn/config)
+
+- 源码
+
+  * [原理]](zh-cn/soundCode/build)
+  * [目录结构](zh-cn/soundCode/pcCatalog)
 
 * [交流](zh-cn/communication)
 * [捐赠](zh-cn/donation)
