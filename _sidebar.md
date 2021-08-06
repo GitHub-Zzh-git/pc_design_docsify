@@ -1,12 +1,12 @@
 <!--
  * @Author: ZZH
  * @Date: 2021-08-05 16:11:39
- * @LastEditTime: 2021-08-06 10:13:10
+ * @LastEditTime: 2021-08-06 11:01:22
  * @LastEditors: ZZH
  * @Description: 文档目录
  * @FilePath: /pc-design/docs/_sidebar.md
 -->
-* [KFormDesign](README)
+* [英智页面设计系统](README)
 - 开始
   * [快速上手](zh-cn/guide/start?id=快速上手)
   * [使用组件](zh-cn/guide/start?id=引入-k-form-design)
@@ -32,5 +32,5 @@
   * [原理](zh-cn/soundCode/build)
   * [目录结构](zh-cn/soundCode/pcCatalog)
 
-* [交流](zh-cn/communication)
-* [捐赠](zh-cn/donation)
+<!-- * [交流](zh-cn/communication)
+* [捐赠](zh-cn/donation) -->

@@ -1,3 +1,11 @@
+<!--
+ * @Author: ZZH
+ * @Date: 2021-08-05 16:11:39
+ * @LastEditTime: 2021-08-06 10:32:50
+ * @LastEditors: ZZH
+ * @Description: 
+ * @FilePath: /pc-design/docs/README.md
+-->
 
 
 
@@ -65,18 +73,3 @@ Vue.use(KFormDesign)
   </div>
 </template>
 ```
-
-### 交流
-点击链接加入qq群聊，可以直接提问及反馈bug
-
-- [【k-form-desgin交流群：1020643215】](https://jq.qq.com/?_wv=1027&k=5BeoFAr) （满人）
-
-- [【k-form-desgin交流二群：727396923】](https://jq.qq.com/?_wv=1027&k=uYyqQPlQ)
-
-### 捐赠
-如果你觉得k-form-design对你有帮助，欢迎给我捐赠
-![](http://cdn.kcz66.com/donation.png)
-
-### License
-[MIT](https://github.com/Kchengz/k-form-design/blob/master/LICENSE)
-Copyright (c) 2019-present kchengz

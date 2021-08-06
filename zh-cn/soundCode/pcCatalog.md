@@ -1,17 +1,15 @@
 <!--
  * @Author: ZZH
  * @Date: 2021-07-30 09:41:07
- * @LastEditTime: 2021-07-30 11:15:45
+ * @LastEditTime: 2021-08-06 10:54:30
  * @LastEditors: ZZH
  * @Description: 
- * @FilePath: /vuepress-starter/docs/soundCode/pcCatalog.md
+ * @FilePath: /pc-design/docs/zh-cn/soundCode/pcCatalog.md
 -->
 # pc端目录结构（设计器+引擎）
 
 ## 项目目录结构
 
-
-> 目录结构如下：
 
 ```
 
