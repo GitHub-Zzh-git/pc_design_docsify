@@ -1,7 +1,7 @@
 <!--
  * @Author: ZZH
  * @Date: 2021-08-05 16:11:39
- * @LastEditTime: 2021-08-05 17:35:24
+ * @LastEditTime: 2021-08-06 10:06:20
  * @LastEditors: ZZH
  * @Description: 文档目录
  * @FilePath: /pc-design/docs/_sidebar.md
@@ -29,7 +29,7 @@
 
 - 源码
 
-  * [原理]](zh-cn/soundCode/build)
+  * [原理](zh-cn/soundCode/build)
   * [目录结构](zh-cn/soundCode/pcCatalog)
 
 * [交流](zh-cn/communication)
